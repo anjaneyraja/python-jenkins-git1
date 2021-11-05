@@ -1,0 +1,7 @@
+
+
+[{"productId": 1, "productName": "Iphone", "price": 20000, "rating": 3.8},
+  {"productId": 2, "productName": "Oneplus", "price": 50000, "rating": 4.2},
+  {"productId": 3, "productName": "MotoG", "price": 10000, "rating": 4},
+  {"productId": 4, "productName": "Nokia4", "price": 15000, "rating": 3.6},
+  {"productId": "5", "productName": "lava3", "price": "5000", "rating": "5"}]
